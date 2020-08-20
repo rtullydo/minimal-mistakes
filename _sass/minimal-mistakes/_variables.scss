@@ -31,9 +31,9 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $cmu !default;
-$header-font-family: $cmu !default;
-$caption-font-family: $cmu !default;
+$global-font-family: "Computer Modern";
+$header-font-family: "Computer Modern";
+$caption-font-family: "Computer Modern";
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
